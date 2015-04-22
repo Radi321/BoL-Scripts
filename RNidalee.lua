@@ -1,5 +1,4 @@
---[[by RadiChuj
-without flame guys pls]]--
+--100% useless
 
 if myHero.charName ~= Nidalee then return end
 

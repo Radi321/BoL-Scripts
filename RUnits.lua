@@ -1,0 +1,17 @@
+unit.charName
+unit.level
+unit.visible
+unit.x
+unit.y
+unit.z
+unit.team
+unit.health
+unit.mana
+unit.cdr
+unit.ap
+unit.damage
+unit.armor
+unit.magicArmor
+unit.ms
+unit.range
+unit.gold
